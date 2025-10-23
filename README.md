@@ -88,8 +88,8 @@ A special thank you to my mentor, **Amirhossein Ghorbanhosseini**, for his inval
 
 I'm always open to connecting with other developers and learning from the community.
 
--   **Email:** `erfann.works@gmail.com` (Optional: Add your email if you're comfortable)
--   **Telegram:** `https://t.me/ErfannKhastar` (Optional: Add your Telegram ID)
+-   **Email:** [erfann.works@gmail.com](mailto:erfann.works@gmail.com)
+-   **Telegram:** [ErfannKhastar](https://t.me/ErfannKhastar)
 
 *(Planning to add LinkedIn soon!)*
 
