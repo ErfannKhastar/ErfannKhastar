@@ -16,21 +16,28 @@ I'm a **Junior Python Developer** currently focusing on building my skills in **
 -   Continuously seeking ways to **improve code quality, structure, and best practices**.
 
 ---
+### 🛠️ Tech Stack & Skills
 
-## 🛠️ My Tech Stack & Skills
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a> &nbsp;
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/> </a> &nbsp;
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/> </a> &nbsp;
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a> &nbsp;
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> </a> &nbsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> </a> &nbsp;
+  <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" alt="Qt/PyQt6" width="40" height="40"/> </a> &nbsp;
+</p>
 
-Here are some of the technologies and tools I've been working with:
-
--   **Languages:** Python
--   **Backend Frameworks:** FastAPI
--   **Databases:** PostgreSQL, MySQL, SQL Querying
--   **ORM/Database Tools:** SQLAlchemy, Alembic
--   **Containerization:** Docker, Docker Compose
--   **Version Control:** Git, GitHub
--   **Desktop Development:** PyQt6
--   **API Testing:** Postman
--   **Environment Management:** Virtual Environments (`venv`)
--   **Concepts:** REST API Principles, Database Relationships
+- **Languages:** Python
+- **Backend Frameworks:** FastAPI
+- **Databases:** PostgreSQL, MySQL, SQL Querying
+- **ORM/Database Tools:** SQLAlchemy, Alembic
+- **Containerization:** Docker, Docker Compose
+- **Version Control:** Git, GitHub
+- **Desktop Development:** PyQt6
+- **API Testing:** Postman
+- **Environment Management:** Virtual Environments (`venv`)
+- **Concepts:** REST API Principles, Database Relationships
 
 *(Always eager to learn more!)*
 
