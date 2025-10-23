@@ -1,9 +1,5 @@
 # Hi there, I'm Erfan! 👋
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ErfannKhastar&show_icons=true&theme=radical" alt="Erfan's GitHub Stats"/>
-</p>
-
 I'm a **Junior Python Developer** currently focusing on building my skills in **Backend Development**. My journey into programming started with a personal fascination for technology and the modern digital world. I'm passionate about learning how things work under the hood and building practical applications. My goal is to continuously learn, grow my expertise, and eventually turn this passion into a fulfilling career.
 
 ---
@@ -16,7 +12,7 @@ I'm a **Junior Python Developer** currently focusing on building my skills in **
 -   Continuously seeking ways to **improve code quality, structure, and best practices**.
 
 ---
-### 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack & Skills
 
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a> &nbsp;
