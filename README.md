@@ -70,8 +70,8 @@ My learning journey started with guidance from a mentor, Amirhossein Ghorbanhoss
 
 I'm always open to connecting with other developers and learning from the community.
 
--   **Email:** `[Your-Email-Address]` (Optional: Add your email if you're comfortable)
--   **Telegram:** `[Your-Telegram-Username]` (Optional: Add your Telegram ID)
+-   **Email:** `erfann.works@gmail.com` (Optional: Add your email if you're comfortable)
+-   **Telegram:** `https://t.me/ErfannKhastar` (Optional: Add your Telegram ID)
 
 *(Planning to add LinkedIn soon!)*
 
