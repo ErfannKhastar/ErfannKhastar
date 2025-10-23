@@ -73,6 +73,16 @@ My learning journey started with guidance from a mentor, Amirhossein Ghorbanhoss
 
 ---
 
+## 🙏 Acknowledgements
+
+A special thank you to my mentor, **Amirhossein Ghorbanhosseini**, for his invaluable guidance at the beginning of my programming journey. You can connect with him here:
+-   **LinkedIn:** `https://www.linkedin.com/in/amirtoday`
+-   **Instagram:** `https://www.instagram.com/amir.today`
+
+*(Remember to replace the placeholders above with the actual links/handles!)*
+
+---
+
 ## 📫 Get In Touch
 
 I'm always open to connecting with other developers and learning from the community.
