@@ -76,9 +76,9 @@ My learning journey started with guidance from a mentor, Amirhossein Ghorbanhoss
 ## 🙏 Acknowledgements
 
 A special thank you to my mentor, **Amirhossein Ghorbanhosseini**, for his invaluable guidance at the beginning of my programming journey. You can connect with him here:
--   **LinkedIn:** `https://www.linkedin.com/in/amirtoday`
--   **Instagram:** `https://www.instagram.com/amir.today`
--   **Personal Website:** `https://amir.today`
+-   **LinkedIn:** [Amirhossein Ghorbanhosseini](https://www.linkedin.com/in/amirtoday/)
+-   **Instagram:** [amir.today](https://www.instagram.com/amir.today/)
+-   **Personal Website:** [amir.today](https://amir.today)
 
 *(Remember to replace the placeholders above with the actual links/handles!)*
 
