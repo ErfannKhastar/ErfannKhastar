@@ -1,16 +1,78 @@
-## Hi there 👋
+# Hi there, I'm Erfan! 👋
 
-<!--
-**ErfannKhastar/ErfannKhastar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ErfannKhastar&show_icons=true&theme=radical" alt="Erfan's GitHub Stats"/>
+</p>
 
-Here are some ideas to get you started:
+I'm a **Junior Python Developer** currently focusing on building my skills in **Backend Development**. My journey into programming started with a personal fascination for technology and the modern digital world. I'm passionate about learning how things work under the hood and building practical applications. My goal is to continuously learn, grow my expertise, and eventually turn this passion into a fulfilling career.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌱 What I'm Currently Focusing On
+
+-   **Deepening my understanding** of the technologies I've learned over the past six months, including Python fundamentals, API development with FastAPI, and database interactions with SQL (PostgreSQL/MySQL).
+-   **Solidifying my skills** in essential tools like Git, Docker, SQLAlchemy, and Alembic through hands-on projects.
+-   **Exploring backend concepts** further and preparing for more complex projects.
+-   Continuously seeking ways to **improve code quality, structure, and best practices**.
+
+---
+
+## 🛠️ My Tech Stack & Skills
+
+Here are some of the technologies and tools I've been working with:
+
+-   **Languages:** Python
+-   **Backend Frameworks:** FastAPI
+-   **Databases:** PostgreSQL, MySQL, SQL Querying
+-   **ORM/Database Tools:** SQLAlchemy, Alembic
+-   **Containerization:** Docker, Docker Compose
+-   **Version Control:** Git, GitHub
+-   **Desktop Development:** PyQt6
+-   **API Testing:** Postman
+-   **Environment Management:** Virtual Environments (`venv`)
+-   **Concepts:** REST API Principles, Database Relationships
+
+*(Always eager to learn more!)*
+
+---
+
+## ✨ Featured Projects
+
+Here are a few projects I'm particularly proud of or learned a lot from:
+
+1.  **[fastapi-crud-tutorial](https://github.com/ErfannKhastar/fastapi-crud-tutorial)**
+    * A complete RESTful API for a simple social media application built with FastAPI, PostgreSQL, SQLAlchemy, and Docker.
+    * *Key Learning:* This was my introduction to backend development, handling database interactions with an ORM, implementing JWT authentication, and containerizing a full-stack application with Docker Compose.
+
+2.  **[Hospital-Management](https://github.com/ErfannKhastar/Hospital-Management)**
+    * A multi-window desktop application for managing patient and employee data using PyQt6 and MySQL. Features full CRUD functionality.
+    * *Key Learning:* This project was challenging due to managing complex database relationships (e.g., between patients, doctors, appointments) and coordinating state across multiple GUI windows.
+
+3.  **[Personal-Finance-Tracker](https://github.com/ErfannKhastar/Personal-Finance-Tracker)**
+    * A desktop finance tracker with user authentication, budgeting, reporting, and a visual dashboard using Matplotlib charts (built with PyQt6).
+    * *Key Learning:* Implementing secure user authentication locally and visualizing data effectively were key challenges that significantly improved my understanding of data handling and user experience.
+
+*(Feel free to explore my other repositories for more projects!)*
+
+---
+
+## 📚 How I Learn
+
+My learning journey started with guidance from a mentor, Amirhossein Ghorbanhosseini, and continues with:
+-   Following tutorials and courses on platforms like YouTube.
+-   Building hands-on projects to apply what I learn.
+-   Leveraging AI tools to gain deeper insights and troubleshoot challenges.
+-   Reading official documentation.
+
+---
+
+## 📫 Get In Touch
+
+I'm always open to connecting with other developers and learning from the community.
+
+-   **Email:** `[Your-Email-Address]` (Optional: Add your email if you're comfortable)
+-   **Telegram:** `[Your-Telegram-Username]` (Optional: Add your Telegram ID)
+
+*(Planning to add LinkedIn soon!)*
+
+---
