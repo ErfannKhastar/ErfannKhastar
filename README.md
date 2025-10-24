@@ -76,8 +76,6 @@ A special thank you to my mentor, **Amirhossein Ghorbanhosseini**, for his inval
 -   **Instagram:** [amir.today](https://www.instagram.com/amir.today/)
 -   **Personal Website:** [amir.today](https://amir.today)
 
-*(Remember to replace the placeholders above with the actual links/handles!)*
-
 ---
 
 ## 📫 Get In Touch
@@ -86,7 +84,5 @@ I'm always open to connecting with other developers and learning from the commun
 
 -   **Email:** [erfann.works@gmail.com](mailto:erfann.works@gmail.com)
 -   **Telegram:** [ErfannKhastar](https://t.me/ErfannKhastar)
-
-*(Planning to add LinkedIn soon!)*
 
 ---
