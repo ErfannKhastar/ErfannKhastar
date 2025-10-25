@@ -49,7 +49,7 @@ Here are a few projects I'm particularly proud of or learned a lot from:
 
 2.  **[Hospital-Management](https://github.com/ErfannKhastar/Hospital-Management)**
     * A multi-window desktop application for managing patient and employee data using PyQt6 and MySQL. Features full CRUD functionality.
-    * *Key Learning:* This project was challenging due to managing complex database relationships (e.g., between patients, doctors, appointments) and coordinating state across multiple GUI windows.
+    * *Key Learning:* This project was challenging due to managing complex database relationships (e.g., between patients, doctors) and coordinating state across multiple GUI windows.
 
 3.  **[Personal-Finance-Tracker](https://github.com/ErfannKhastar/Personal-Finance-Tracker)**
     * A desktop finance tracker with user authentication, budgeting, reporting, and a visual dashboard using Matplotlib charts (built with PyQt6).
