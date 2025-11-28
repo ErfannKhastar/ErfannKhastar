@@ -1,89 +1,49 @@
-# Hi there, I'm Erfan! 👋
+# Hi, I'm Erfan! 👋
 
-I'm a **Junior Python Developer** currently focusing on building my skills in **Backend Development**. My journey into programming started with a personal fascination for technology and the modern digital world. I'm passionate about learning how things work under the hood and building practical applications. My goal is to continuously learn, grow my expertise, and eventually turn this passion into a fulfilling career.
+I am a **Junior Python Developer** passionate about **Backend Development**. I focus on building scalable APIs, managing databases, and creating efficient desktop applications.
 
----
-
-## 🌱 What I'm Currently Focusing On
-
--   **Deepening my understanding** of the technologies I've learned over the past six months, including Python fundamentals, API development with FastAPI, and database interactions with SQL (PostgreSQL/MySQL).
--   **Solidifying my skills** in essential tools like Git, Docker, SQLAlchemy, and Alembic through hands-on projects.
--   **Exploring backend concepts** further and preparing for more complex projects.
--   Continuously seeking ways to **improve code quality, structure, and best practices**.
+Currently, I am deepening my expertise in **FastAPI**, **Microservices concepts**, and **Containerization**.
 
 ---
-## 🛠️ Tech Stack & Skills
 
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a> &nbsp;
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/> </a> &nbsp;
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/> </a> &nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a> &nbsp;
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> </a> &nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> </a> &nbsp;
-  <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" alt="Qt/PyQt6" width="40" height="40"/> </a> &nbsp;
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
 </p>
 
-- **Languages:** Python
-- **Backend Frameworks:** FastAPI
-- **Databases:** PostgreSQL, MySQL, SQL Querying
-- **ORM/Database Tools:** SQLAlchemy, Alembic
-- **Containerization:** Docker, Docker Compose
-- **Version Control:** Git, GitHub
-- **Desktop Development:** PyQt6
-- **API Testing:** Postman
-- **Environment Management:** Virtual Environments (`venv`)
-- **Concepts:** REST API Principles, Database Relationships
+---
 
-*(Always eager to learn more!)*
+## 🚀 Featured Projects
+
+| Project | Tech Stack | Description |
+| :--- | :--- | :--- |
+| **[Social Media API](https://github.com/ErfannKhastar/fastapi-crud-tutorial)** | FastAPI, PostgreSQL, Docker, Alembic | A complete RESTful API with JWT authentication, voting system, and full CRUD operations. |
+| **[Hospital Manager](https://github.com/ErfannKhastar/Hospital-Management)** | Python, PyQt6, MySQL | A desktop app for managing patient/doctor data with complex database relationships. |
+| **[Finance Tracker](https://github.com/ErfannKhastar/Personal-Finance-Tracker)** | Python, PyQt6, Matplotlib | Personal finance tool with user auth, budgeting, and visual data dashboards. |
 
 ---
 
-## ✨ Featured Projects
+## 📫 Connect with Me
 
-Here are a few projects I'm particularly proud of or learned a lot from:
+<p align="left">
+<a href="mailto:erfann.works@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<a href="https://t.me/ErfannKhastar" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
+</p>
 
-1.  **[fastapi-crud-tutorial](https://github.com/ErfannKhastar/fastapi-crud-tutorial)**
-    * A complete RESTful API for a simple social media application built with FastAPI, PostgreSQL, SQLAlchemy, and Docker.
-    * *Key Learning:* This was my introduction to backend development, handling database interactions with an ORM, implementing JWT authentication, and containerizing a full-stack application with Docker Compose.
+<br>
 
-2.  **[Hospital-Management](https://github.com/ErfannKhastar/Hospital-Management)**
-    * A multi-window desktop application for managing patient and employee data using PyQt6 and MySQL. Features full CRUD functionality.
-    * *Key Learning:* This project was challenging due to managing complex database relationships (e.g., between patients, doctors) and coordinating state across multiple GUI windows.
-
-3.  **[Personal-Finance-Tracker](https://github.com/ErfannKhastar/Personal-Finance-Tracker)**
-    * A desktop finance tracker with user authentication, budgeting, reporting, and a visual dashboard using Matplotlib charts (built with PyQt6).
-    * *Key Learning:* Implementing secure user authentication locally and visualizing data effectively were key challenges that significantly improved my understanding of data handling and user experience.
-
-*(Feel free to explore my other repositories for more projects!)*
-
----
-
-## 📚 How I Learn
-
-My learning journey started with guidance from a mentor, Amirhossein Ghorbanhosseini, and continues with:
--   Following tutorials and courses on platforms like YouTube.
--   Building hands-on projects to apply what I learn.
--   Leveraging AI tools to gain deeper insights and troubleshoot challenges.
--   Reading official documentation.
-
----
-
-## 🙏 Acknowledgements
-
-A special thank you to my mentor, **Amirhossein Ghorbanhosseini**, for his invaluable guidance at the beginning of my programming journey. You can connect with him here:
--   **LinkedIn:** [Amirhossein Ghorbanhosseini](https://www.linkedin.com/in/amirtoday/)
--   **Instagram:** [amir.today](https://www.instagram.com/amir.today/)
--   **Personal Website:** [amir.today](https://amir.today)
-
----
-
-## 📫 Get In Touch
-
-I'm always open to connecting with other developers and learning from the community.
-
--   **Email:** [erfann.works@gmail.com](mailto:erfann.works@gmail.com)
--   **Telegram:** [ErfannKhastar](https://t.me/ErfannKhastar)
--   **Instagram:** [ErfannKhastar](https://www.instagram.com/erfannkhastar/)
-
----
+<p align="center">
+  <small>Special thanks to my mentor, <a href="https://www.linkedin.com/in/amirtoday/">Amirhossein Ghorbanhosseini</a>, for his guidance.</small>
+</p>
