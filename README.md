@@ -1,8 +1,8 @@
 # Hi, I'm Erfan! 👋
 
-I am a **Junior Python Developer** passionate about **Backend Development**. I focus on building scalable APIs, managing databases, and creating efficient desktop applications.
+I am a **Junior Python Developer** passionate about **Backend Development**. My journey started with building desktop tools, and I am now fully focused on developing scalable **Web APIs** and modern backend systems.
 
-Currently, I am deepening my expertise in **FastAPI**, **Microservices concepts**, and **Containerization**.
+Currently, I am shifting my focus from fundamentals to **building real-world applications**, mastering **FastAPI**, and learning **Best Practices** in software development.
 
 ---
 
