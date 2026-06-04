@@ -1,12 +1,23 @@
-# Hi, I'm Erfan! 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi,+I'm+Erfan!+👋;Junior+Python+Developer;Passionate+About+Backend+Development" />
+</h1>
 
-I am a **Junior Python Developer** passionate about **Backend Development**. My journey started with building desktop tools, and I am now fully focused on developing scalable **Web APIs** and modern backend systems.
-
-Currently, I am shifting my focus from fundamentals to **building real-world applications**, mastering **FastAPI**, and learning **Best Practices** in software development.
+<p align="center">
+  <em>A dedicated backend developer currently transitioning from building desktop tools to designing scalable Web APIs and modern backend architectures.</em>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+### 👨🏻‍💻 About Me
+
+- 🌱 Currently mastering **FastAPI**, **Docker**, and **PostgreSQL**.
+- 🏗️ Focused on building real-world applications and learning software engineering **Best Practices** (Clean Code, CI/CD, DB Migrations).
+- 🎯 **My Goal:** To write clean, efficient, and maintainable code while continuously growing my backend skillset.
+- 💡 I believe in honesty about my current skills and working hard to improve them every day.
+
+---
+
+### 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -22,28 +33,36 @@ Currently, I am shifting my focus from fundamentals to **building real-world app
 
 ---
 
-## 🚀 Featured Projects
+### 📊 GitHub Stats
 
-| Project | Tech Stack | Description |
-| :--- | :--- | :--- |
-| **[Social Media API](https://github.com/ErfannKhastar/fastapi-crud-tutorial)** | FastAPI, PostgreSQL, Docker, Alembic | A complete RESTful API with JWT authentication, voting system, and full CRUD operations. |
-| **[Hospital Manager](https://github.com/ErfannKhastar/Hospital-Management)** | Python, PyQt6, MySQL | A desktop app for managing patient/doctor data with complex database relationships. |
-| **[Finance Tracker](https://github.com/ErfannKhastar/Personal-Finance-Tracker)** | Python, PyQt6, Matplotlib | Personal finance tool with user auth, budgeting, and visual data dashboards. |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ErfannKhastar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Erfan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErfannKhastar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</p>
 
 ---
 
-## 📫 Connect with Me
+### 🚀 Featured Projects
 
-<p align="left">
-<a href="mailto:erfann.works@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-<a href="https://t.me/ErfannKhastar" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-</a>
-</p>
+| Project | Tech Stack | Description |
+| :--- | :--- | :--- |
+| **[Social Media API](https://github.com/ErfannKhastar/social-media-api-tutorial)** | FastAPI, PostgreSQL, Docker, CI/CD | A complete RESTful API with JWT authentication, a voting system, and automated testing pipelines. |
+| **[Hospital Manager](https://github.com/ErfannKhastar/Hospital-Management)** | Python, PyQt6, MySQL | A desktop application for managing patient/doctor data with complex database relationships. |
+| **[Finance Tracker](https://github.com/ErfannKhastar/Personal-Finance-Tracker)** | Python, PyQt6, Matplotlib | A personal finance tool featuring user authentication, budgeting, and visual data dashboards. |
 
-<br>
+---
+
+### 📫 Connect with Me
 
 <p align="center">
-  <small>Special thanks to my mentor, <a href="https://www.linkedin.com/in/amirtoday/">Amirhossein Ghorbanhosseini</a>, for his guidance.</small>
+  <a href="mailto:erfann.works@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://t.me/ErfannKhastar" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</p>
+
+<p align="center">
+  <small>Special thanks to my mentor, <a href="https://www.linkedin.com/in/amirtoday/">Amirhossein Ghorbanhosseini</a>, for his continued guidance.</small>
 </p>
