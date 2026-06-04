@@ -33,15 +33,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ErfannKhastar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Erfan's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErfannKhastar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</p>
-
----
-
 ### 🚀 Featured Projects
 
 | Project | Tech Stack | Description |
