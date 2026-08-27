@@ -33,16 +33,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Tech Stack | Description |
-| :--- | :--- | :--- |
-| **[Social Media API](https://github.com/ErfannKhastar/social-media-api-tutorial)** | FastAPI, PostgreSQL, Docker, CI/CD | A complete RESTful API with JWT authentication, a voting system, and automated testing pipelines. |
-| **[Hospital Manager](https://github.com/ErfannKhastar/Hospital-Management)** | Python, PyQt6, MySQL | A desktop application for managing patient/doctor data with complex database relationships. |
-| **[Finance Tracker](https://github.com/ErfannKhastar/Personal-Finance-Tracker)** | Python, PyQt6, Matplotlib | A personal finance tool featuring user authentication, budgeting, and visual data dashboards. |
-
----
-
 ### 📫 Connect with Me
 
 <p align="center">
